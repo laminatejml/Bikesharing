@@ -1,6 +1,8 @@
 # Bikesharing
 ### Analyzing citibike data with tableau
 
+https://public.tableau.com/app/profile/jeremy.lopez8376/viz/CitibikeChallenge_16767986212660/CitibikeSharingwithTableau?publish=yes
+
 The purpose of this project is to determine the feasability of a Citibike service in Des Moine. We would help measure this with a number of data visualizations we have retrieved from the Citibike service which is currently operating in New York City.
 
 ![image](https://user-images.githubusercontent.com/111616227/216465663-48cac7ee-0a9a-42cf-8ced-25c8512ff0bf.png)
